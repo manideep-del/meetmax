@@ -70,4 +70,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## will be getting unused-var error##
-will b erectified soon for profuile login and visual loging value cause of vete.
+will be rectified soon for profile login and visual log-ing value cause of vector.
