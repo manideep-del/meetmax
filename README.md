@@ -1,3 +1,8 @@
+#YARN TO GET!
+INSTALL YARN 1.05 VERSION
+AND THE CREATE AN REACT APP " YARN CREATE REACT -APP"
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
