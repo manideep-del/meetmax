@@ -25,13 +25,13 @@ export default function Profile() {
               />
             </div>
             <div className="profileInfo">
-                <h4 className="profileInfoName">Manideep and yohan</h4>
-                <span className="profileInfoDesc">Hello my friends!</span>
+              <h4 className="profileInfoName">Manideep and Yohan</h4>
+              <span className="profileInfoDesc">Hello my friends!</span>
             </div>
           </div>
           <div className="profileRightBottom">
             <Feed />
-            <Rightbar profile/>
+            <Rightbar profile />
           </div>
         </div>
       </div>
