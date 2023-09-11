@@ -72,7 +72,7 @@ export const Posts = [
   },
   {
     id: 3,
-    desc: "Every moment is a fresh beginning.",
+    desc: "Every moment is a fresh beginning.⛰️🌊",
     photo: "assets/post/3.jpeg",
     date: "1 hour ago",
     userId: 3,
@@ -81,6 +81,7 @@ export const Posts = [
   },
   {
     id: 4,
+    desc: "Juicy Citrus Delight. 🍊",
     photo: "assets/post/4.jpeg",
     date: "4 hours ago",
     userId: 4,
