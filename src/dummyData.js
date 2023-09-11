@@ -2,59 +2,59 @@ export const Users = [
   {
     id: 1,
     profilePicture: "assets/person/1.jpeg",
-    username: "Yohan",
+    username: "Yohan Reddy",
   },
   {
     id: 2,
     profilePicture: "assets/person/2.jpeg",
-    username: "Manideep",
+    username: "Manideep Badam",
   },
   {
     id: 3,
     profilePicture: "assets/person/3.jpeg",
-    username: "Charan",
+    username: "Sri Charan",
   },
   {
     id: 4,
     profilePicture: "assets/person/4.jpeg",
-    username: "Kaushik",
+    username: "Kaushik Reddy",
   },
   {
     id: 5,
     profilePicture: "assets/person/5.jpeg",
-    username: "Akshay",
+    username: "Akshay Reddy",
   },
   {
     id: 6,
     profilePicture: "assets/person/6.jpeg",
-    username: "Shirley",
+    username: "Shirley Setia",
   },
   {
     id: 7,
     profilePicture: "assets/person/7.jpeg",
-    username: "Trav",
+    username: "Travis Scott",
   },
   {
     id: 8,
     profilePicture: "assets/person/8.jpeg",
-    username: "Kristen",
+    username: "Kristen Druncon",
   },
   {
     id: 9,
     profilePicture: "assets/person/9.jpeg",
-    username: "Gary",
+    username: "Gary Lee",
   },
   {
     id: 10,
     profilePicture: "assets/person/10.jpeg",
-    username: "Safak",
+    username: "Safak Ali",
   },
 ];
 
 export const Posts = [
   {
     id: 1,
-    desc: "Love For All, Hatred For None.",
+    desc: "Love For All, Hatred For None.🌆🚉",
     photo: "assets/post/1.jpeg",
     date: "5 mins ago",
     userId: 1,
@@ -63,6 +63,7 @@ export const Posts = [
   },
   {
     id: 2,
+    desc: "Good food, Good mood!!!🍜🍳",
     photo: "assets/post/2.jpeg",
     date: "15 mins ago",
     userId: 2,
